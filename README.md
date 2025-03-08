@@ -2,6 +2,8 @@
 
 ## **Fetal Health Classification**
 
+Click [HERE](https://github.com/gabrielcapela/AutoML_Classification/blob/main/fetal_health_classification.ipynb) to see the notebook.
+
 ## 📌 Overview
 
 Welcome to my project on classifying fetal health using PyCaret!
