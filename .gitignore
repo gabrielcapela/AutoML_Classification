@@ -1,0 +1,40 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.cache/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Environment files
+*.env
+*.env.*
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Local configuration files
+*.sqlite
+*.db
+
+
+catboost_info/
