@@ -4,27 +4,25 @@
 
 ## 📌 Overview
 
-Welcome to my project on classification the fetal health insurance costs using PyCaret!
+Welcome to my project on classifying fetal health using PyCaret!
 
-Child and maternal health are critical global concerns, with the United Nations' Sustainable Development Goals (SDGs) emphasizing the need to reduce child mortality and improve maternal healthcare. This project aims to develop a Machine Learning model using AutoML to classify fetal health based on Cardiotocography data. The goal is to assist healthcare professionals by providing a fast, accurate, and objective evaluation of fetal well-being, reducing the risks of perinatal complications.
+The well-being of both children and mothers is a global priority, with the United Nations' Sustainable Development Goals (SDGs) emphasizing the importance of reducing child mortality and enhancing maternal healthcare. This project aims to build a Machine Learning model using AutoML to assess fetal health based on Cardiotocography data. The goal is to support healthcare providers by delivering a fast, reliable, and objective evaluation of fetal health, thus minimizing the risks of perinatal complications.
 
-### 🔧 What’s Inside
-**Pandas Profiling** & **PyCaret**: First, I used Pandas Profiling to generate a comprehensive report on the dataset, providing insights into missing values, correlations, and data distributions. Then, I used PyCaret to automate the entire machine learning process, including preprocessing (handling missing values, encoding categorical variables, scaling features, and detecting outliers), model comparison (compare_models()), model tuning (tune_model()), and training the final model for predictions. The model was saved for future use.
+## 🔧 Project Overview
+Pandas Profiling & PyCaret: Initially, I utilized Pandas Profiling to generate a detailed report of the dataset, offering insights into missing values, correlations, and data distributions. Then, I used PyCaret to automate the entire machine learning pipeline, including preprocessing (handling missing data, encoding categorical variables, scaling features, and detecting outliers), model comparison (compare_models()), hyperparameter tuning (tune_model()), and training the final model for predictions. The trained model was saved for later use.
 
-### ⚡ Main Goal
-This project’s main objective is to showcase the PyCaret and Pandas Profiling tools, which allow both data scientists and beginners to streamline their machine learning workflows with just a few lines of code. The focus is on automating processes and accelerating model development, all while producing meaningful insights.
+## ⚡ Main Objective
+The primary goal of this project is to demonstrate the capabilities of PyCaret and Pandas Profiling, tools that enable both data scientists and newcomers to streamline their machine learning workflows with minimal effort. The focus is on automating tasks and speeding up model development while generating actionable insights.
 
-### 📂 How to Use
-*   Clone this repo
-*   Install dependencies
-*   Run the notebook to see PyCaret in action!
-
-### 🌟 Technologies Used
+## 📂 How to Run
+*   Clone this repository
+*   Install required dependencies
+*   Execute the notebook to see PyCaret in action!
+##🌟 Technologies Used
 *   PyCaret for AutoML
 *   Pandas Profiling for exploratory data analysis
-*   LightGBM as a model choice
+*   XGBoost as the selected model
 *   Jupyter Notebook for the coding environment
+## 🔗 Let’s Stay in Touch
 
-## 🔗 Let’s Connect
-Feel free to explore, fork, or contribute to this project! If you have any questions or suggestions, don’t hesitate to reach out.
-
+Feel free to explore, fork, or contribute to this project! If you have any questions or feedback, don't hesitate to reach out.
