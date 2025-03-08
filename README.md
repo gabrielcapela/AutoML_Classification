@@ -18,7 +18,7 @@ The primary goal of this project is to demonstrate the capabilities of PyCaret a
 *   Clone this repository
 *   Install required dependencies
 *   Execute the notebook to see PyCaret in action!
-##🌟 Technologies Used
+## 🌟 Technologies Used
 *   PyCaret for AutoML
 *   Pandas Profiling for exploratory data analysis
 *   XGBoost as the selected model
